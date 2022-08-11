@@ -1,0 +1,15 @@
+.dub
+docs.json
+__dummy.html
+docs/
+/exceptions
+exceptions.so
+exceptions.dylib
+exceptions.dll
+exceptions.a
+exceptions.lib
+exceptions-test-*
+*.exe
+*.o
+*.obj
+*.lst

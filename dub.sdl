@@ -1,0 +1,5 @@
+name "exceptions"
+description "Experiment on refined exception handling."
+authors "Christian Koestlin"
+copyright "Copyright (c) 2022, Christian Koestlin"
+license "MIT"
